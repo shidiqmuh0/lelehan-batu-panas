@@ -82,3 +82,4 @@
 {"error":"{\"Error_GUID\":\"12144895787669835797\",\"Error\":\"Failed all retries {GUID:12144895787669835797,error:No pairings available.,chain_id:ETH1}\"}"}
 {"error":"{\"Error_GUID\":\"11867891389614746340\",\"Error\":\"Failed all retries {GUID:11867891389614746340,error:No pairings available.,chain_id:ETH1}\"}"}
 {"error":"{\"Error_GUID\":\"15748697779633433575\",\"Error\":\"Failed all retries {GUID:15748697779633433575,error:No pairings available.,chain_id:ETH1}\"}"}
+{"error":"{\"Error_GUID\":\"7117192045521817884\",\"Error\":\"Failed all retries {GUID:7117192045521817884,error:rpc error: code = Unavailable desc = unexpected HTTP status code received from server: 502 (Bad Gateway); transport: received unexpected content-type \\\"text/html\\\",chain_id:ETH1}\"}"}
